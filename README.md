@@ -1,1 +1,1 @@
-# face-manipulation-detection
+# deep-fake-detection
